@@ -21,7 +21,7 @@ Aqui você encontrará as soluções para sua duvida em como emitir e utilizar o
 
 ### Pule direto para
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Nota Fiscal de Produtos (NF-e)</strong></td><td>SEBRAE online</td><td></td><td></td><td><a href="emissor-de-nf-e-sebrae/editor/">editor</a></td></tr><tr><td><strong>Nota fiscal de Serviço (NFS-e)</strong></td><td>Site Municipal</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Nota Fiscal Avulsa (NFA-e)</strong></td><td>Site Estadual</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><strong>EMISSOR DE</strong> </p><p><strong>NF-E SEBRAE</strong></p></td><td></td><td></td><td><a href="emissor-de-nf-e-sebrae/introducao.md">introducao.md</a></td></tr><tr><td><strong>Nota fiscal de Serviço (NFS-e)</strong></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Nota Fiscal Avulsa (NFA-e)</strong></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 ***
 
