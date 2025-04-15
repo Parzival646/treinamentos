@@ -2,11 +2,6 @@
 
 * [Bem vindo!](README.md)
 
-## Getting Started
-
-* [Introdução a nota fiscal](getting-started/quickstart.md)
-* [Porque emitir e quais efeitos da omissão fiscal](getting-started/publish-your-docs.md)
-
 ## Emissor de NF-e SEBRAE
 
 * [INTRODUÇÃO](emissor-de-nf-e-sebrae/introducao.md)
