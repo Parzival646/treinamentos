@@ -6,7 +6,7 @@ Se você já possui cadastro, basta informar seus dados de login e senha e clica
 
 <figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
-#### CADASTRE-SE NO EMISSOR SEBRAE
+## CADASTRE-SE NO EMISSOR SEBRAE
 
 Se for seu primeiro acesso e você precisa se cadastrar, clique em **CADASTRE-SE**.
 
@@ -25,7 +25,7 @@ Privacidade. Após clicar em **CADASTRAR**, seu cadastro como Pessoa Física est
 
 <figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
-#### RECUPERE SUA SENHA DE ACESSO
+## RECUPERE SUA SENHA DE ACESSO
 
 Uma vez cadastrado, você poderá efetuar o seu login.\
 Caso não se lembre da senha, nessa mesma tela, há a opção para recuperação de senha. Para\
@@ -44,7 +44,7 @@ O cadastro e o login efetuados até aqui dizem respeito à pessoa física que es
 sistema. Para ter acesso ao Emissor de NF-e SEBRAE, você deverá estar vinculado a uma ou mais\
 empresas.
 
-#### CADASTRO DE EMITENTE
+## CADASTRO DE EMITENTE
 
 Após confirmar o cadastramento da pessoa física, caso o seu CPF ainda não esteja associado a\
 pelo menos uma empresa, você será direcionado ao **CADASTRO DE EMITENTE**. Preencha os\
@@ -64,7 +64,7 @@ Selecionando o USAR CERTIFICADO DIGITAL A3, um pop-up do ASSINADOR DIGITAL irá 
 que possa colocar a senha do seu certificado que estará conectado em sua máquina e em\
 execução para reconhecimento e emissão de suas futuras notas.
 
-#### SELEÇÃO DE INSTALAÇÃO
+## SELEÇÃO DE INSTALAÇÃO
 
 É possível realizar o acesso simplificado a múltiplas contas vinculadas, ao colocar seu CPF e\
 SENHA dentro do AMEI.SEBRAE.COM.BR:
@@ -78,7 +78,7 @@ Ao logar, será redirecionado para a seguinte página:
 Nela conseguirá selecionar suas empresas vinculadas sendo redirecionadas para elas ou criar\
 novas empresas.
 
-#### PRIMEIRO ACESSO
+## PRIMEIRO ACESSO
 
 Ao acessar o Emissor Sebrae, o usuário verá uma home onde será possível identificar alertas\
 sobre suas Notas Fiscais, e também sobre o status de seu Certificado Digital.\
